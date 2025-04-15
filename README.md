@@ -1,8 +1,8 @@
 # Diamond-Price-Prediction
 
 Contacts:
-Niyat Bhanderi
-niyatbhanderi4290@gmail.com
+Name: Niyat Bhanderi
+Email: niyatbhanderi4290@gmail.com
 
 Status: Complete
 
