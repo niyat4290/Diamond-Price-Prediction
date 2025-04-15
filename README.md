@@ -11,4 +11,4 @@ The Diamond Price Prediction project aims to develop a machine learning model th
 
 Related Project Materials:
 
-Links to Decks: Diamond Price Prediction
+Links to Decks: [Diamond Price Prediction](https://github.com/niyat4290/Diamond-Price-Prediction/blob/4a54d1f1be3d35ba7bcb440ce9fcaa1a05422db9/Diamond%20Price%20Prediction.pdf)
